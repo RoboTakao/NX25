@@ -10,7 +10,7 @@ The basic concepts are:
 http://robo-takao.jp/NX25/e/index.html
 
 [Movie]  
-https://youtu.be/rR1G2fjKznk?si=v_UU0EfXKI9O3Kt_
+https://youtu.be/Wjop2TxJFP4?si=WuXMtciCXU7_gKtj
 
 [Components]  
 1)M5 Atom S3  
@@ -28,14 +28,14 @@ https://youtu.be/rR1G2fjKznk?si=v_UU0EfXKI9O3Kt_
 ![image](NX25_05.jpg)
 
 [Functions]  
-Walk Forward, Back  
-Turn Right, Left  
-Side Slide Walk Right, Left  
-Punch Right, Left  
-Control via JoyC (Joy stick with M5stickC)  
-Hands motion by JoC  
-Face action (eyes motions)  
-Blue Light by flexible LED  
+- Walk Forward, Back  
+- Turn Right, Left  
+- Side Slide Walk Right, Left  
+- Punch Right, Left  
+- Control via JoyC (Joy stick with M5stickC)  
+- Hands motion by JoC  
+- Face action (eyes motions)  
+- Blue Light by flexible LED  
 
 [Code]  
 M5M5AtonS3
