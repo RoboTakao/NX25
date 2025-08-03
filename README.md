@@ -2,9 +2,9 @@
 ![image](NX25_01.jpg)
 I made biped robot with M5 Atom S3   
 The basic concepts are:  
- Simple and cheep as much as possible  
- Cute and Cool  
- 16 axis  
+- Simple and cheep as much as possible  
+-  Cute and Cool  
+-  16 axis  
 
 [Summary]
 http://robo-takao.jp/NX25/e/index.html
